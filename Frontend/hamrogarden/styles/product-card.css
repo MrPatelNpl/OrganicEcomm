@@ -1,0 +1,5 @@
+.card-Holder {
+    max-width: 134rem;
+    padding: 5rem;
+    background: var(--grey);
+}
